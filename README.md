@@ -20,3 +20,8 @@
 	    return Num;
 	}
 
+```
+
+[http://www.cnblogs.com/doudongchun/p/3694765.html](http://www.cnblogs.com/doudongchun/p/3694765.html)
+
+[http://www.cnblogs.com/doudongchun/p/3694786.html](http://www.cnblogs.com/doudongchun/p/3694786.html)
